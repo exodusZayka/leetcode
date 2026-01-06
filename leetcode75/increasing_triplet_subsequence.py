@@ -16,4 +16,4 @@ class Solution:
                 return True
         return False
 
-print(Solution().productExceptSelf([2,1,5,0,4,6]))
+print(Solution().increasingTriplet([2,1,5,0,4,6]))
