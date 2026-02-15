@@ -13,7 +13,7 @@ class TreeNode:
 
 
 # Time complexity: O(n)
-# Space complexity: O(n). For description see max_level_sum_in_binary_tree.py file
+# Space complexity: O(n). For a description see max_level_sum_in_binary_tree.py file
 class Solution:
     def rightSideView(self, root: Optional[TreeNode]) -> list[int]:
         result = []
